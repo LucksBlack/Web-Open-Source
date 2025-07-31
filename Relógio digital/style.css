@@ -1,0 +1,14 @@
+body {
+  background-color: black;
+  color: lime;
+  font-family: monospace;
+  text-align: center;
+  font-size: 50px;
+  margin-top: 20%;
+}
+
+.clock {
+  border: 2px solid lime;
+  padding: 20px;
+  display: inline-block;
+}
